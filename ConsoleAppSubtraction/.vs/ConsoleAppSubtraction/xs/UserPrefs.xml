@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B0F4C4D5-B893-4045-B135-C3749A0FC656}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppSubtraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppSubtraction/Program.cs">
+    <Files>
+      <File FileName="ConsoleAppSubtraction/Subtraction.cs" Line="20" Column="27" />
+      <File FileName="ConsoleAppSubtraction/SuctractionTests.cs" Line="42" Column="30" />
+      <File FileName="ConsoleAppSubtraction/Program.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppSubtraction" expanded="True">
+            <Node name="ConsoleAppSubtraction" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ConsoleAppSubtraction" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
